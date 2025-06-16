@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/amandeep-boot/interview-buddy-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/amandeep-boot/interview-buddy-backend.git
